@@ -1,0 +1,30 @@
+center{
+    margin-top: 130px;
+}
+center .container .header h1{
+    font-size: 50px;
+    font-family: 'Orbitron';
+}
+center .container .content #clock{
+    font-weight: bolder;
+    font-size: 70px;
+}
+center .container .content #periode{
+    position: relative;
+    top: -200px;
+    left: 220px;
+    font-family: 'Orbitron';
+    font-weight: bold;
+}
+center .container .content #formatTime{
+    position: relative;
+    top: -60px;
+    font-family: 'Orbitron';
+    font-weight: bold;
+}
+center .container .content #region{
+    position: relative;
+    top: -60px;
+    font-family: 'Orbitron';
+    font-weight: bold;   
+}
